@@ -129,6 +129,19 @@ input::-moz-focus-inner {
 	padding: 0;
 }
 
+.btn-default {
+    background-color: #1d1d1d;
+}
+
+pre {
+	background-color: #2e2e2e;
+	color: #dedede;
+}
+
+.Reactable .rt-table {
+    background: #1d1d1d;
+}
+
 input, select, textarea {
 	-moz-appearance: none;
 	-webkit-appearance: none;
